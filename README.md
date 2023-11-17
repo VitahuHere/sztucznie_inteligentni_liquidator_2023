@@ -1,1 +1,1 @@
-# sztucznie_inteligentnie_liquidator_2023
+# sztucznie_inteligentni_liquidator_2023
