@@ -1,0 +1,122 @@
+[
+  {
+    "model": "finances.individualdepositoffer",
+    "pk": 1,
+    "fields": {
+      "bank": 4,
+      "name": "",
+      "description": "",
+      "duration": null,
+      "normal_interest_rate": 2.0,
+      "date_start": "2023-12-05",
+      "maturity": null,
+      "created_at": "2023-11-18T23:57:36.989248Z",
+      "conditions": ""
+    }
+  },
+  {
+    "model": "finances.individualdepositoffer",
+    "pk": 2,
+    "fields": {
+      "bank": 3,
+      "name": "",
+      "description": "",
+      "duration": null,
+      "normal_interest_rate": 1.5,
+      "date_start": "2023-09-01",
+      "maturity": null,
+      "created_at": "2023-11-18T23:57:36.989248Z",
+      "conditions": ""
+    }
+  },
+  {
+    "model": "finances.individualdepositoffer",
+    "pk": 3,
+    "fields": {
+      "bank": 5,
+      "name": "",
+      "description": "",
+      "duration": null,
+      "normal_interest_rate": 4.25,
+      "date_start": "2023-11-02",
+      "maturity": null,
+      "created_at": "2023-11-18T23:57:36.989248Z",
+      "conditions": ""
+    }
+  },
+  {
+    "model": "finances.individualdepositoffer",
+    "pk": 4,
+    "fields": {
+      "bank": 1,
+      "name": "",
+      "description": "",
+      "duration": null,
+      "normal_interest_rate": 5.0,
+      "date_start": "2023-11-01",
+      "maturity": null,
+      "created_at": "2023-11-18T23:57:36.989248Z",
+      "conditions": ""
+    }
+  },
+  {
+    "model": "finances.individualdepositoffer",
+    "pk": 6,
+    "fields": {
+      "bank": 6,
+      "name": "",
+      "description": "",
+      "duration": null,
+      "normal_interest_rate": 1.5,
+      "date_start": "2023-10-17",
+      "maturity": null,
+      "created_at": "2023-11-18T23:57:36.989248Z",
+      "conditions": ""
+    }
+  },
+  {
+    "model": "finances.businessdepositoffer",
+    "pk": 1,
+    "fields": {
+      "bank": 2,
+      "name": "",
+      "description": "",
+      "duration": null,
+      "normal_interest_rate": 0.01,
+      "date_start": "2023-09-07",
+      "maturity": null,
+      "created_at": "2023-11-18T23:57:36.989248Z",
+      "conditions": ""
+    }
+  },
+  {
+    "model": "finances.businessdepositoffer",
+    "pk": 2,
+    "fields": {
+      "bank": 6,
+      "name": "",
+      "description": "",
+      "duration": null,
+      "normal_interest_rate": 0.2,
+      "date_start": "2023-10-01",
+      "maturity": null,
+      "created_at": "2023-11-18T23:57:36.989248Z",
+      "conditions": ""
+    }
+  },
+  {
+    "model": "finances.businessdepositoffer",
+    "pk": 3,
+    "fields": {
+      "bank": 2,
+      "name": "",
+      "description": "",
+      "duration": null,
+      "normal_interest_rate": 0.7,
+      "date_start": "2023-10-05",
+      "maturity": null,
+      "created_at": "2023-11-18T23:57:36.989248Z",
+      "conditions": ""
+    }
+  }
+]

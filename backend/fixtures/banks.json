@@ -1,0 +1,106 @@
+[
+  {
+    "model": "finances.bank",
+    "pk": 1,
+    "fields": {
+      "name": "Santander",
+      "address": "al. Jana Pawła II 17, 00-854 Warszawa",
+      "nip": "896-000-56-73",
+      "krs": "0000008723",
+      "capitalization": 1021893140.0,
+      "created_at": "2023-11-18T23:57:36.989248Z",
+      "updated_at": "2023-11-18T23:57:36.989248Z"
+    }
+  },
+  {
+    "model": "finances.bank",
+    "pk": 2,
+    "fields": {
+      "name": "mBank",
+      "address": "ul. Prosta 18, 00-850 Warszawa",
+      "nip": "526-021-50-88",
+      "krs": "0000025237",
+      "capitalization": 169733980.0,
+      "created_at": "2023-11-18T23:57:36.989248Z",
+      "updated_at": "2023-11-18T23:57:36.989248Z"
+    }
+  },
+  {
+    "model": "finances.bank",
+    "pk": 3,
+    "fields": {
+      "name": "ING",
+      "address": "ul. Sokolska 34, 40-086 Katowice",
+      "nip": "634-013-54-75",
+      "krs": "0000005459",
+      "capitalization": 130100000.0,
+      "created_at": "2023-11-18T23:57:36.989248Z",
+      "updated_at": "2023-11-18T23:57:36.989248Z"
+    }
+  },
+  {
+    "model": "finances.bank",
+    "pk": 4,
+    "fields": {
+      "name": "Citi Handlowy",
+      "address": "ul. Senatorska 16, 00-923 Warszawa",
+      "nip": "526-030-02-91",
+      "krs": "0000001538",
+      "capitalization": 522638400.0,
+      "created_at": "2023-11-18T23:57:36.989248Z",
+      "updated_at": "2023-11-18T23:57:36.989248Z"
+    }
+  },
+  {
+    "model": "finances.bank",
+    "pk": 5,
+    "fields": {
+      "name": "BNP Paribas",
+      "address": "ul. Marcina Kasprzaka 2, 01-211 Warszawa",
+      "nip": "526-100-85-46",
+      "krs": "0000011571",
+      "capitalization": 147676946.0,
+      "created_at": "2023-11-18T23:57:36.989248Z",
+      "updated_at": "2023-11-18T23:57:36.989248Z"
+    }
+  },
+  {
+    "model": "finances.bank",
+    "pk": 6,
+    "fields": {
+      "name": "Alior Bank",
+      "address": "ul. Łopuszańska 38 D, 02-232 Warszawa",
+      "nip": "107-001-07-31",
+      "krs": "0000305178",
+      "capitalization": 1305539910.0,
+      "created_at": "2023-11-18T23:57:36.989248Z",
+      "updated_at": "2023-11-18T23:57:36.989248Z"
+    }
+  },
+  {
+    "model": "finances.bank",
+    "pk": 7,
+    "fields": {
+      "name": "Toyota Bank",
+      "address": "ul. Postępu 18b, 02-676 Warszawa",
+      "nip": "521-320-26-64",
+      "krs": "0000120553",
+      "capitalization": 9000000.0,
+      "created_at": "2023-11-18T23:57:36.989248Z",
+      "updated_at": "2023-11-18T23:57:36.989248Z"
+    }
+  },
+  {
+    "model": "finances.bank",
+    "pk": 8,
+    "fields": {
+      "name": "Bank Millennium",
+      "address": "ul. Stanisława Żaryna 2A, 02-593 Warszawa",
+      "nip": "526-021-29-31",
+      "krs": "0000010186",
+      "capitalization": 1213116777.0,
+      "created_at": "2023-11-18T23:57:36.989248Z",
+      "updated_at": "2023-11-18T23:57:36.989248Z"
+    }
+  }
+]
